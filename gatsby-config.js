@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fayaz Ahmed`,
     author: {
       name: `Fayaz Ahmed`,
       summary: `Open sourcing at Chatwoot`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `My Personal Blog`,
     siteUrl: `https://fayaz.gatsbyjs.io/`,
     social: {
       twitter: `fayazara`,
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Fayaz Ahmed's Blog",
           },
         ],
       },
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Fayaz Ahmed's Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
